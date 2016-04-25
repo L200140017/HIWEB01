@@ -1,0 +1,56 @@
+
+<html lang="en">
+<head>
+  <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+  <meta charset="UTF-8" />
+  <title>Document</title>
+</head>
+<body>
+  <div class="row">
+    <div class="container">
+      <h3 class="text-primary">Saya Sayang Batik blablabla<br/><small>transaksi sukses 100%</smali>
+        <div class="btn-group pull-right" role="group" aria-label="...">
+          <button type="button" class="btn btn-lg btn-success">Beli Produk</button>
+          <button type="button" class="btn btn-lg btn-default">Tambah ke wishlist</button>
+        </div>
+      </h3>
+      <hr>
+    </div> <!--btn-container -->
+  </div> <!-- row awal -->
+ <div class="row">
+  <div class="container">
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <img src="http://www.ozoneeleven.com/wp-content/uploads/2010/08/Beautiful_Nature_1600-x-1200-1024x768.jpg" alt="Batik Frendi">
+      <div class="caption">
+        <h3>Rp. 800000,-</h3>
+        <p>Note : Harga dapat berubah sewaktu-waktu</p>
+      </div>
+    </div>
+  </div> <!-- <div class="cool-md-4"> -->
+    
+    <div class="coll-md-8"></div>
+    <table class="table table-bordered">
+      <tr>
+        <td>Dilihat Sebanyak :<span class="pull-right">400x</td>
+        <td>Berat :<span class="pull-right">10kg</td>
+      </tr>
+      <tr>
+        <td>Terjual :<span class="pull-right">2pcs</td>
+        <td>Asuransi :<span class="pull-right">Adira</td>
+      </tr><tr>
+        <td>Kondisi :<span class="pull-right">Baru</td>
+        <td>Pemesanan Min. : <span class="pull-right">2</td>
+      </tr>
+      </table>
+    </div>
+</div>     
+</body>
+</html>
